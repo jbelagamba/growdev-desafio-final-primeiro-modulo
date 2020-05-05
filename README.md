@@ -5,7 +5,9 @@ Projeto realizado na aula 11 do bootcamp starter | Growdev
 ### PROPOSTA
 
 Crie um programa para realizar o controle de caixa de um supermercado. 
+
 Comececriando um objeto com o nome do supermercado, suas transações e saldo em caixa. 
+
 As transações devem iniciar com um array vazio [] e o saldo em 0 (zero)
 
 
